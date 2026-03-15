@@ -1,4 +1,5 @@
 Description
+
 A Python-based application that translates human hand gestures into system commands or digital input. By utilizing MediaPipe’s hand landmark model, the system identifies 21 3D hand joints to recognize complex patterns with high precision and low latency.
 
 Key Features
