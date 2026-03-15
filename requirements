@@ -1,0 +1,11 @@
+# --- Computer Vision & Perception ---
+opencv-python>=4.8.0    # For camera feed and image processing
+mediapipe>=0.10.0       # For 21-point hand landmark detection
+numpy>=1.24.0           # For mathematical operations on coordinates
+
+# --- System & Automation ---
+pyautogui>=0.9.54       # For mapping gestures to mouse/keyboard actions
+screeninfo>=0.8.1       # (Optional) To handle multi-monitor scaling for mouse control
+
+# --- Utilities ---
+protobuf<=3.20.3        # Ensures compatibility between MediaPipe and Python
